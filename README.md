@@ -2,13 +2,13 @@
 neofetch-inspired program written in bash
 
 ## Installation
-
+<br>
 chmod +x happyfetch.sh
-
+<br>
 double check /usr/local/bin is in path
-
+<br>
 sudo pacman -S base-devel
-
+<br>
 makepkg -si (in root project dir)
 
 
